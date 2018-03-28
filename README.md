@@ -8,11 +8,10 @@ A Paper Collection of Fooling the Deep Neural Network
 2. [Ian Speech on CS231n](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture16.pdf)
 
 3. [DeepFool: a simple and accurate method to fool deep neural networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Moosavi-Dezfooli_DeepFool_A_Simple_CVPR_2016_paper.pdf)
-
+**(CVPR2016)**
 The idea in this work is close to the orginal idea. 
 Loop until the predicted label change.
 
 ### To Read:
-**(CVPR2016)**
 1. [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
 **(ICLR2015)**
