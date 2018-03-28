@@ -1,13 +1,18 @@
 # Fool_Network_Papers
 A Paper Collection of Fooling the Deep Neural Network
 
-Done:
+### Done:
 1. [Adversarial examples in the physical world](http://cn.arxiv.org/abs/1607.02533) 
 **(ICLR2017 Workshop)**
+
 2. [Ian Speech on CS231n](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture16.pdf)
 
-To Do:
-1. [DeepFool: a simple and accurate method to fool deep neural networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Moosavi-Dezfooli_DeepFool_A_Simple_CVPR_2016_paper.pdf)
+3. [DeepFool: a simple and accurate method to fool deep neural networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Moosavi-Dezfooli_DeepFool_A_Simple_CVPR_2016_paper.pdf)
+
+The idea in this work is close to the orginal idea. 
+Loop until the predicted label change.
+
+### To Read:
 **(CVPR2016)**
-2. [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
+1. [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
 **(ICLR2015)**
