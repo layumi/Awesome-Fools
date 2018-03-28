@@ -14,4 +14,4 @@ Loop until the predicted label change.
 
 ### To Read:
 1. [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
-**(ICLR2015)**
+**(ICLR2015)** Fast Gradient Sign Method
