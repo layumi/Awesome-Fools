@@ -15,3 +15,6 @@ Loop until the predicted label change.
 ### To Read:
 1. [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
 **(ICLR2015)** Fast Gradient Sign Method
+
+2. [Learning with a strong adversary](http://cn.arxiv.org/pdf/1511.03034.pdf)
+**(rejected by ICLR2016?)**
