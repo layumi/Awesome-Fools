@@ -12,12 +12,12 @@ A Paper Collection of Fooling the Deep Neural Network
 The idea in this work is close to the orginal idea. 
 Loop until the predicted label change.
 
+4. [Learning with a strong adversary](http://cn.arxiv.org/pdf/1511.03034.pdf)
+**(rejected by ICLR2016?)** Apply the spirit of GAN to optimization.
+
 ### To Read:
 1. [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
 **(ICLR2015)** Fast Gradient Sign Method
-
-2. [Learning with a strong adversary](http://cn.arxiv.org/pdf/1511.03034.pdf)
-**(rejected by ICLR2016?)**
 
 3. [Exploring the space of adversarial images](http://ieeexplore.ieee.org/document/7727230/)
 **IJCNN**
