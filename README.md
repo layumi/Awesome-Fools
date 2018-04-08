@@ -27,3 +27,13 @@ Loop until the predicted label change.
 
 2. [Exploring the space of adversarial images](http://ieeexplore.ieee.org/document/7727230/)
 **IJCNN**
+
+3. [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083) **ICLR2018**
+
+4. [Stochastic Activation Pruning for Robust Adversarial Defense](https://openreview.net/forum?id=H1uR4GZRZ) **ICLR2018**
+
+5. [Generating Natural Adversarial Examples](https://openreview.net/forum?id=H1BLjgZCb&noteId=r1dkEyaSG) **ICLR2018**
+
+6. [Mitigating Adversarial Effects Through Randomization](https://openreview.net/forum?id=Sk9yuql0Z) **ICLR2018**
+
+7. [Ensemble Adversarial Training: Attacks and Defenses](https://openreview.net/forum?id=rkZvSe-RZ) **ICLR2018**
