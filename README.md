@@ -20,6 +20,7 @@ Loop until the predicted label change.
 
 6. [The limitations of deep learning in adversarial settings](https://arxiv.org/pdf/1511.07528.pdf) **ESSP** (European Symposium on Security & Privacy) Propose SaliencyMapAttack. Do not use loss function.
 
+7. [Generating Natural Adversarial Examples](https://openreview.net/forum?id=H1BLjgZCb&noteId=r1dkEyaSG) **ICLR2018**
 
 ### To Read:
 1. [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
@@ -32,8 +33,6 @@ Loop until the predicted label change.
 
 4. [Stochastic Activation Pruning for Robust Adversarial Defense](https://openreview.net/forum?id=H1uR4GZRZ) **ICLR2018**
 
-5. [Generating Natural Adversarial Examples](https://openreview.net/forum?id=H1BLjgZCb&noteId=r1dkEyaSG) **ICLR2018**
+5. [Mitigating Adversarial Effects Through Randomization](https://openreview.net/forum?id=Sk9yuql0Z) **ICLR2018**
 
-6. [Mitigating Adversarial Effects Through Randomization](https://openreview.net/forum?id=Sk9yuql0Z) **ICLR2018**
-
-7. [Ensemble Adversarial Training: Attacks and Defenses](https://openreview.net/forum?id=rkZvSe-RZ) **ICLR2018**
+6. [Ensemble Adversarial Training: Attacks and Defenses](https://openreview.net/forum?id=rkZvSe-RZ) **ICLR2018**
