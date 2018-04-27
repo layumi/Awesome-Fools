@@ -36,3 +36,5 @@ Loop until the predicted label change.
 5. [Mitigating Adversarial Effects Through Randomization](https://openreview.net/forum?id=Sk9yuql0Z) **ICLR2018**
 
 6. [Ensemble Adversarial Training: Attacks and Defenses](https://openreview.net/forum?id=rkZvSe-RZ) **ICLR2018**
+
+7. [Boosting Adversarial Attacks with Momentum](https://arxiv.org/pdf/1710.06081.pdf) **CVPR2018 Spotlight**
