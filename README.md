@@ -22,7 +22,7 @@ Loop until the predicted label change.
 
 7. [Generating Natural Adversarial Examples](https://openreview.net/forum?id=H1BLjgZCb&noteId=r1dkEyaSG) **ICLR2018**
 
-8. [Simple Black-Box Adversarial Perturbations for Deep Networksh](https://arxiv.org/pdf/1612.06299.pdf) One pixel attack
+8. [Simple Black-Box Adversarial Perturbations for Deep Networksh](https://arxiv.org/pdf/1612.06299.pdf) One pixel attack **CVPR17W**
 
 ### To Read:
 1. [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
