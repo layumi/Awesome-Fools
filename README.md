@@ -24,6 +24,7 @@ Loop until the predicted label change.
 
 8. [Simple Black-Box Adversarial Perturbations for Deep Networksh](https://arxiv.org/pdf/1612.06299.pdf) One pixel attack **CVPR17W**
 
+9. [Boosting Adversarial Attacks with Momentum](https://arxiv.org/pdf/1710.06081.pdf) **CVPR2018 Spotlight**
 ### To Read:
 1. [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
 **(ICLR2015)** Fast Gradient Sign Method
@@ -39,4 +40,4 @@ Loop until the predicted label change.
 
 6. [Ensemble Adversarial Training: Attacks and Defenses](https://openreview.net/forum?id=rkZvSe-RZ) **ICLR2018**
 
-7. [Boosting Adversarial Attacks with Momentum](https://arxiv.org/pdf/1710.06081.pdf) **CVPR2018 Spotlight**
+
