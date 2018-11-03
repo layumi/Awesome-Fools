@@ -2,7 +2,7 @@
 
 A curated list of neural architecture search and related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search).
 
-Please feel free to [pull requests](https://github.com/D-X-Y/awesome-NAS/pulls) or [open an issue](https://github.com/D-X-Y/awesome-NAS/issues) to add papers.
+Please feel free to [pull requests](https://github.com/layumi/Awesome-Fools/pulls) or [open an issue](https://github.com/layumi/Awesome-Fools/issues) to add papers.
 
 ### Done:
 1. [Adversarial examples in the physical world](http://cn.arxiv.org/abs/1607.02533) 
@@ -29,7 +29,7 @@ Loop until the predicted label change.
 
 9. [Boosting Adversarial Attacks with Momentum](https://arxiv.org/pdf/1710.06081.pdf) **CVPR2018 Spotlight**
 
-10. [Accessorize to a crime: Real and stealthy attacks on state-of-the-art face recognition.] same with the least-likely class
+10. [Accessorize to a crime: Real and stealthy attacks on state-of-the-art face recognition](https://www.archive.ece.cmu.edu/~lbauer/papers/2016/ccs2016-face-recognition.pdf) same with the least-likely class
 ### To Read:
 1. [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
 **(ICLR2015)** Fast Gradient Sign Method
