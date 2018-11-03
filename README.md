@@ -1,6 +1,6 @@
 # Awesome Fools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of neural architecture search and related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search).
+A curated list of adversarial samples. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search).
 
 Please feel free to [pull requests](https://github.com/layumi/Awesome-Fools/pulls) or [open an issue](https://github.com/layumi/Awesome-Fools/issues) to add papers.
 
