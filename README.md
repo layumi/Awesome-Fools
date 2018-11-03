@@ -1,5 +1,8 @@
-# Fool_Network_Papers
-A Paper Collection of Fooling the Deep Neural Network
+# Awesome Fools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+A curated list of neural architecture search and related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search).
+
+Please feel free to [pull requests](https://github.com/D-X-Y/awesome-NAS/pulls) or [open an issue](https://github.com/D-X-Y/awesome-NAS/issues) to add papers.
 
 ### Done:
 1. [Adversarial examples in the physical world](http://cn.arxiv.org/abs/1607.02533) 
