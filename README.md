@@ -4,6 +4,8 @@ A curated list of neural architecture search and related resources. Inspired by 
 
 Please feel free to [pull requests](https://github.com/layumi/Awesome-Fools/pulls) or [open an issue](https://github.com/layumi/Awesome-Fools/issues) to add papers.
 
+I will update this list more often after the CVPR submission.
+
 ### Done:
 1. [Adversarial examples in the physical world](http://cn.arxiv.org/abs/1607.02533) 
 **(ICLR2017 Workshop)**
