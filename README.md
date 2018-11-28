@@ -31,7 +31,7 @@ Loop until the predicted label change.
 
 9. [Boosting Adversarial Attacks with Momentum](https://arxiv.org/pdf/1710.06081.pdf) **CVPR2018 Spotlight**
 
-10. [Accessorize to a crime: Real and stealthy attacks on state-of-the-art face recognition](https://www.archive.ece.cmu.edu/~lbauer/papers/2016/ccs2016-face-recognition.pdf) same with the least-likely class
+10. [Accessorize to a crime: Real and stealthy attacks on state-of-the-art face recognition](https://www.archive.ece.cmu.edu/~lbauer/papers/2016/ccs2016-face-recognition.pdf) **CCS2016** same with the least-likely class
 
 11. [Adversarial examples for semantic image segmentation](https://arxiv.org/abs/1703.01101) **ICLR2017 Workshop** same with the classification case.
 
