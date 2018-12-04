@@ -38,6 +38,8 @@ Loop until the predicted label change.
 12. [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
 **(ICLR2015)** Fast Gradient Sign Method
 
+13. [Open Set Adversarial Examples](https://arxiv.org/abs/1809.02681) Attack Image Retrieval
+
 ### To Read:
 
 1. [Exploring the space of adversarial images](http://ieeexplore.ieee.org/document/7727230/)
