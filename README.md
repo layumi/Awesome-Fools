@@ -55,4 +55,8 @@ Loop until the predicted label change.
 ### Links
 1. https://bair.berkeley.edu/blog/2017/12/30/yolo-attack/
 
+### Competition
+1. MCS2018: https://github.com/Atmyre/MCS2018_Solution
+
+
 
