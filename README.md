@@ -43,6 +43,8 @@ Loop until the predicted label change.
 
 13. [Open Set Adversarial Examples](https://arxiv.org/abs/1809.02681) Attack Image Retrieval
 
+14. [Ensemble Adversarial Training: Attacks and Defenses](https://openreview.net/forum?id=rkZvSe-RZ) **(ICLR2018)**
+
 ### To Read:
 
 1. [Exploring the space of adversarial images](http://ieeexplore.ieee.org/document/7727230/)
@@ -54,7 +56,7 @@ Loop until the predicted label change.
 
 4. [Mitigating Adversarial Effects Through Randomization](https://openreview.net/forum?id=Sk9yuql0Z) **(ICLR2018)**
 
-5. [Ensemble Adversarial Training: Attacks and Defenses](https://openreview.net/forum?id=rkZvSe-RZ) **(ICLR2018)**
+5. [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420)
 
 ### Links
 1. https://bair.berkeley.edu/blog/2017/12/30/yolo-attack/
