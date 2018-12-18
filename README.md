@@ -56,7 +56,7 @@ Loop until the predicted label change.
 
 4. [Mitigating Adversarial Effects Through Randomization](https://openreview.net/forum?id=Sk9yuql0Z) **(ICLR2018)**
 
-5. [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420) [github](https://github.com/anishathalye/obfuscated-gradients)
+5. [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420) **(ICLR2018)** [[Github]](https://github.com/anishathalye/obfuscated-gradients)
 
 ### Links
 1. https://bair.berkeley.edu/blog/2017/12/30/yolo-attack/
