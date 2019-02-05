@@ -43,6 +43,8 @@ Loop until the predicted label change.
 
 13. [Ensemble Adversarial Training: Attacks and Defenses](https://openreview.net/forum?id=rkZvSe-RZ) **(ICLR2018)**
 
+14. [Adversarial Manipulation of Deep Representations](https://arxiv.org/abs/1511.05122) **(ICLR2016)** Attack the intermediate activation.
+
 ### To Read:
 
 1. [Exploring the space of adversarial images](http://ieeexplore.ieee.org/document/7727230/)
