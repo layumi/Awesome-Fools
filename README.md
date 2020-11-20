@@ -45,6 +45,9 @@ Loop until the predicted label change.
 
 14. [Adversarial Manipulation of Deep Representations](https://arxiv.org/abs/1511.05122) **(ICLR2016)** Attack the intermediate activation.
 
+15. [Query-efficient Meta Attack to Deep Neural Networks](https://arxiv.org/abs/1906.02398) **(ICLR2009)** Attack the image model based on meta learning.
+
+16. [Motion-Excited Sampler: Video Adversarial Attack with Sparked Prior](https://arxiv.org/abs/2003.07637) **(ECCV2020)** Attack the video via direct application of motion map.
 ### To Read:
 
 1. [Exploring the space of adversarial images](http://ieeexplore.ieee.org/document/7727230/)
