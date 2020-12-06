@@ -65,7 +65,7 @@ Loop until the predicted label change.
 
 5. [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420) **(ICLR2018)** [[Github]](https://github.com/anishathalye/obfuscated-gradients)
 
-6. [Adversarial Examples Are Not Bugs, They Are Features] (https://arxiv.org/abs/1905.02175) **(NeurIPS 2019)** 
+6. [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/abs/1905.02175) **(NeurIPS 2019)** 
 
 ### Talks
 1. [Ian Speech on CS231n](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture16.pdf)
