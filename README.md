@@ -39,7 +39,7 @@ Loop until the predicted label change.
 11. [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
 **(ICLR2015)** Fast Gradient Sign Method
 
-12. [Open Set Adversarial Examples](https://arxiv.org/abs/1809.02681) Attack Image Retrieval [[Code](https://github.com/layumi/A_reID)]
+12. [U-turn: Crafting Adversarial Queries with Opposite-direction Features](https://zdzheng.xyz/files/IJCV_Retrieval_Robustness_CameraReady.pdf) Attack Image Retrieval [[Code](https://github.com/layumi/U_turn)] **(IJCV2022)**
 
 13. [Ensemble Adversarial Training: Attacks and Defenses](https://openreview.net/forum?id=rkZvSe-RZ) **(ICLR2018)**
 
